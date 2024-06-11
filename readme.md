@@ -21,6 +21,8 @@ This project aims to transform LinkedIn profile data from survey responses into 
 4. **Reporting and Analytics**:
     - **Visualization Tools**: Power BI and Tableau are used for creating interactive visualizations.
 
+## EER(Enhanced Entity-Relationship) Diagram
+![EER.png](EER.png)
 
 ## Visualization Features
 
